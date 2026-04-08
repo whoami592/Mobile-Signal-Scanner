@@ -6,23 +6,37 @@ Project Overview  Mobile Signal Scanner is a powerful Python-based tool designed
 
 
 🚀 Features
+
 📶 Scan nearby mobile network signals
 📡 Detect signal strength (RSSI)
 🗺️ Display available carriers/networks
 ⏱️ Real-time monitoring
 📊 Simple output for analysis
 🐧 Fully compatible with Kali Linux
+
+
+
 🛠️ Technologies Used
+
 Python 3
 OS / System Libraries
 Network Scanning Techniques
+
+
+
 📦 Installation
-git clone https://github.com/yourusername/mobile-signal-scanner.git
+
+git clone https://github.com/whoami592/Mobile-Signal-Scanner
 cd mobile-signal-scanner
 pip install -r requirements.txt
+
 ▶️ Usage
+
 python scanner.py
+
+
 📸 Output Example
+
 Scanning for mobile signals...
 
 Network: Jazz
@@ -38,7 +52,14 @@ Signal Strength: -80 dBm
 This tool is created for educational purposes only.
 Do not use it for illegal activities or unauthorized network monitoring.
 
+
+
+
+
+
 📂 Project Structure
+
+
 mobile-signal-scanner/
 │
 ├── scanner.py
@@ -50,16 +71,25 @@ GUI Interface (Tkinter / Web)
 Signal Graph Visualization
 GPS Mapping Integration
 Advanced Filtering Options
+
+
 👨‍💻 Author
 
+
 Mr Sabaz Ali Khan
-Python Developer | Cybersecurity Enthusiast
+Python Developer | Cybersecurity engineer
 
 🌟 Support
+
 
 If you like this project:
 
 ⭐ Star the repo
+
+
+
+<img width="1536" height="1024" alt="Cybersecurity expert in futuristic workspace" src="https://github.com/user-attachments/assets/66df8c4f-61ab-4563-9ba1-a74b91cb2664" />
+
 🍴 Fork it
 📢 Share it
 🔥 GitHub Description (Short)
